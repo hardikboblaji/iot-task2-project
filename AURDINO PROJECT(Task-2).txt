@@ -1,0 +1,7 @@
+AURDINO PROJECT(Task-2)
+Dual-Axis Solar Tracking System
+
+this projects real world usecases are many as at basic it detects light and react to it 
+1. If used at large scale can be used to detect weather(like sunlight) can be used in retractable roof for indoor plants shelter which can protect from too much sunlight or lack of proper sunlight and help in control temperature and prevent insects which will reduce the use of harmfull Insecticides 
+ 
+2.Cannge in  also be used to detect change in duration of day during summer and winter by paring it with digital and programmable time tracker.
