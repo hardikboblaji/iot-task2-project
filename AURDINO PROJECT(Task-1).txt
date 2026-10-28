@@ -1,0 +1,5 @@
+AURDINO PROJECT(Task-1)
+Automatic Object Sorting System
+use cases :
+1. garbage separation for easy Processing i
+2, Bigger packages can be separated in product delivery services.
